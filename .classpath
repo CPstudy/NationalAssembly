@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="lib/img.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Crawler"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Lucene"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSoup"/>
+	<classpathentry kind="lib" path="C:/Users/guide/Documents/학습자료/3학년 2학기/정보검색/lucene-7.1.0/lucene-7.1.0/core/lucene-core-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guide/Documents/학습자료/3학년 2학기/정보검색/lucene-7.1.0/lucene-7.1.0/analysis/common/lucene-analyzers-common-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guide/Documents/학습자료/3학년 2학기/정보검색/lucene-7.1.0/lucene-7.1.0/queryparser/lucene-queryparser-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guide/Documents/학습자료/3학년 2학기/정보검색/02문서수집_실습자료/crawler4j-4.4.0-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guide/Documents/Javalib/jsoup-1.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guide/Documents/학습자료/3학년 2학기/정보검색/lucene-7.1.0/lucene-7.1.0/highlighter/lucene-highlighter-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guide/Documents/학습자료/3학년 2학기/정보검색/lucene-7.1.0/lucene-7.1.0/memory/lucene-memory-7.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
